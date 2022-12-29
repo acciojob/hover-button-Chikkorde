@@ -2,17 +2,16 @@
 /* Your CSS Code here. */
 .button{
    
-    background-color:black ;
-    color:white;
+   background-color: rgb(0,0,0) ;
+    color:#ffffff;
 
     border-radius: 5px;
     border:none;
-   'rgb(0, 0, 0)'
 }
 
 .button:hover{
    
     background-color:yellow ;
-    color: black;
+    color: rgb(0,0,0);
     border-radius: 30px;
 }
